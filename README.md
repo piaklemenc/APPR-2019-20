@@ -15,6 +15,7 @@ Dejavnosti je okrog 20, te so razdeljene vsaka na še približno tri podpanoge, 
 
 
 Tabela 1: podpanoge, leto (vsa leta 2014-2018), (bruto plača), neto plača 
+
 Tabela 2,3,4,5,6: panoga, leto (posamezno leto 2014-2018), neto plača
 
 Vir (SURS): https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__07_trg_dela__10_place__01_07010_place/0701021S.px/,
