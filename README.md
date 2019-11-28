@@ -10,13 +10,14 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 Poiskala sem podatke o povprečnih mesečnih plačah po dejavnostih v Sloveniji med leti 2014 in 2018. Primerjala bom povprečne letne plače v naslednjih panogah: 
 kmetijstvo in lov, gozdarstvo, ribištvo, rudarstvo, predelovalne dejavnosti, oskrba z električnim plinom in paro, oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja, gradbeništvo, trgovina, vzdrževanje in popravila motornih vozil, promet in skladiščenje, gostinstvo, informacijske in komunikacijske dejavnosti, finančne in zavarovalniške dejavnosti, poslovanje z neprimičninami, strokovne, znanstvene in tehnične dejavnosti, druge poslovne dejavnosti, dejavnosti javne uprave in obrambe, izobraževanje, zdravstvo in socialno varstvo, kulturne, razvedrilne in rekreacijske dejavnosti.
 
-Dejavnosti je okrog 70, tiste bolj obsežne bom analizirala podrobneje oziroma bom o njih povedala več na predstavitvi. .
+Dejavnosti je okrog 20, te so razdeljene vsaka na še približno tri podpanoge, te pa na še nekaj podpodpanog. Tiste bolj obsežne bom analizirala podrobneje oziroma bom o njih povedala več na predstavitvi.
 
 
 
 Tabela: dejavnost, leto, bruto plača, neto plača 
 
-Vir (SURS): https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__07_trg_dela__10_place__01_07010_place/0701021S.px/
+Vir (SURS): https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__07_trg_dela__10_place__01_07010_place/0701021S.px/,
+https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__07_trg_dela__10_place__01_07010_place/0701011S.px/
 
 ## Program
 
